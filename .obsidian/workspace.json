@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87f1d534924c1c1f",
+            "id": "a66c2d0a66bd563a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React Basics.md",
+                "file": "SQLite3/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "40c292588f40fdb5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React Basics.md",
+                "file": "SQLite3/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React Basics.md",
+                "file": "SQLite3/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React Basics.md"
+                "file": "SQLite3/Basics.md"
               }
             }
           }
@@ -146,9 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f1d534924c1c1f",
+  "active": "a66c2d0a66bd563a",
   "lastOpenFiles": [
+    "2024-03-29.md",
+    "SQLite3/Basics.md",
+    "SQLite3/Relationship.md",
     "React/React Basics.md",
+    "SQLite3",
+    "2024-03-28.md",
+    "Untitled.canvas",
+    "New Text Document.txt",
     "React"
   ]
 }
