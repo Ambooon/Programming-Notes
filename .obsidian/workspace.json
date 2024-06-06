@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d892f86005999de",
+        "id": "7fb7580d04cc50f2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b104d1d62ba58b5",
+            "id": "d0b1d00a0252e2da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLite3/Basics.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQLite3/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQLite3/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQLite3/Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,19 +138,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b104d1d62ba58b5",
+  "active": "d0b1d00a0252e2da",
   "lastOpenFiles": [
+    "C++/Testing.md",
+    "C++/Handling Invalid Input.md",
+    "C++/What to learn.md",
+    "C++/Best Practice.md",
+    "C++/Flow Control.md",
+    "C++/Flow Control 1.md",
+    "C++/Loops.md",
+    "C++/Scope, Duration, Linkage.md",
+    "C++/Operations on Data.md",
+    "C++/Strings.md",
+    "C++/Constants.md",
+    "C++/Functions.md",
+    "C++/Files.md",
+    "C++/Debugging.md",
+    "C++/Variables And Data Types.md",
+    "C++/Basics.md",
+    "C++/Arrays.md",
+    "C++/VSCode Project Template.md",
+    "C++/Pointers.md",
+    "C++/Pics/Pasted image 20240528151959.png",
+    "C++/Pics",
+    "C++/Pics/Pasted image 20240528152000.png",
+    "C++/Pics/Pasted image 20240528152555.png",
+    "SQLite3/Basics.md",
+    "C++",
+    "THESIS/What to do.md",
     "React/Basics.md",
     "React/Installation.md",
     "React/Examples.md",
-    "THESIS/What to do.md",
     "React Notes",
     "SQLite3/Relationship.md",
     "THESIS",
-    "SQLite3/Basics.md",
     "2024-03-29.md",
     "SQLite3",
-    "2024-03-28.md",
     "Untitled.canvas",
     "New Text Document.txt",
     "React"
