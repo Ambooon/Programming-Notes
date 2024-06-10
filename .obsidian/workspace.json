@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb7580d04cc50f2",
+        "id": "1ef3d21a34dc3255",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b1d00a0252e2da",
+            "id": "dd307c36e161a5cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
+            "id": "585dfa1137590c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0866483a87c8be81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Reference and Pointers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee8a385ec1dc9cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "68ca4db6ddda377e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Enums and Structs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Enums and Structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Enums and Structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/Enums and Structs.md"
+              }
             }
           }
         ]
@@ -138,19 +191,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0b1d00a0252e2da",
+  "active": "68ca4db6ddda377e",
   "lastOpenFiles": [
+    "C++/What to learn.md",
+    "C++/Enums and Structs.md",
+    "C++/Pointers.md",
+    "C++/Best Practice.md",
+    "C++/Reference and Pointers.md",
+    "C++/Templates.md",
+    "C++/Constants.md",
     "C++/Testing.md",
     "C++/Handling Invalid Input.md",
-    "C++/What to learn.md",
-    "C++/Best Practice.md",
     "C++/Flow Control.md",
     "C++/Flow Control 1.md",
     "C++/Loops.md",
     "C++/Scope, Duration, Linkage.md",
     "C++/Operations on Data.md",
     "C++/Strings.md",
-    "C++/Constants.md",
     "C++/Functions.md",
     "C++/Files.md",
     "C++/Debugging.md",
@@ -158,7 +215,6 @@
     "C++/Basics.md",
     "C++/Arrays.md",
     "C++/VSCode Project Template.md",
-    "C++/Pointers.md",
     "C++/Pics/Pasted image 20240528151959.png",
     "C++/Pics",
     "C++/Pics/Pasted image 20240528152000.png",
@@ -168,11 +224,8 @@
     "THESIS/What to do.md",
     "React/Basics.md",
     "React/Installation.md",
-    "React/Examples.md",
     "React Notes",
-    "SQLite3/Relationship.md",
     "THESIS",
-    "2024-03-29.md",
     "SQLite3",
     "Untitled.canvas",
     "New Text Document.txt",
