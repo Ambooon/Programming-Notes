@@ -15,3 +15,5 @@
 - Prefer passing strings using `std::string_view` (by value) instead of `const std::string&`, unless your function calls other functions that require C-style strings or `std::string` parameters.
 - Prefer pass by reference to pass by address unless you have a specific reason to use pass by address.
 - Return a `std::optional` (instead of a sentinel value) for functions that may fail, unless your function needs to return additional information about why it failed.
+
+- Try to make the member function in class as `const`.

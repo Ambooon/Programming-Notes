@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Enums and Structs.md",
+                "file": "C++/Best Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Enums and Structs.md",
+                "file": "C++/Best Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Enums and Structs.md",
+                "file": "C++/Best Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Enums and Structs.md"
+                "file": "C++/Best Practice.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "68ca4db6ddda377e",
   "lastOpenFiles": [
-    "C++/What to learn.md",
     "C++/Enums and Structs.md",
+    "C++/What to learn.md",
     "C++/Pointers.md",
     "C++/Best Practice.md",
     "C++/Reference and Pointers.md",
