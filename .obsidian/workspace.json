@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "1aa481749f07c2f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd02ee2fa48b20bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82a18869de71cd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab4760571f26bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/Enums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cee961c9cdaec553",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb65b76724a2241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f71a23ac40a2de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "cfcadc1d37b1b61c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c787be51cf3f3e79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40c292588f40fdb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6132cbe2e4961c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4192c548fea7bc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7aa0c0990ec52ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "530e9f021e2dd36c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa724323fb9300ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C#/Exception Handling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3f71a23ac40a2de",
+  "lastOpenFiles": [
+    "C#/Enums.md",
+    "C#/Exception Handling.md",
+    "C#/OOP.md",
+    "ASP.NET/Create ASP.NET Project.md",
+    "C#",
+    "ASP.NET/What to learn.md",
+    "ASP.NET/Images/Pasted image 20240729133710.png",
+    "ASP.NET/Asynchronous.md",
+    "ASP.NET/Images",
+    "ASP.NET/Images/Pasted image 20240729132914.png",
+    "ASP.NET/Configurations.md",
+    "ASP.NET/Updated CRUD.md",
+    "ASP.NET/Saving entities in the Database.md",
+    "ASP.NET/Generating the database.md",
+    "ASP.NET/ORM or EntityFrameworkCore.md",
+    "ASP.NET/Data Validation.md",
+    "ASP.NET/DTO (Data Transfer Object).md",
+    "ASP.NET/CRUD.md",
+    "VSCode/Shortcuts.md",
+    "PostgreSQL/Pasted image 20240719154218.png",
+    "ASP.NET",
+    "PostgreSQL/Database Normalization.md",
+    "PostgreSQL/Pasted image 20240719155325.png",
+    "PostgreSQL/Pasted image 20240719155258.png",
+    "PostgreSQL/Pasted image 20240719155015.png",
+    "PostgreSQL/Pasted image 20240719154954.png",
+    "PostgreSQL/Pasted image 20240719154639.png",
+    "PostgreSQL/Pasted image 20240719154618.png",
+    "PostgreSQL/Pasted image 20240719154248.png",
+    "FastAPI/FastAPI.md",
+    "FastAPI",
+    "PostgreSQL/PSQL commands.md",
+    "PostgreSQL/SQL Commands.md",
+    "PostgreSQL/Start pgadmin4.md",
+    "C++/Strings.md",
+    "PostgreSQL",
+    "C++/Scope, Duration, Linkage.md",
+    "C++/Reference and Pointers.md",
+    "C++/Pointers.md",
+    "C++/Operations on Data.md",
+    "C++/Loops.md",
+    "VSCode",
+    "C++/Pics",
+    "C++",
+    "React Notes",
+    "THESIS",
+    "Untitled.canvas"
+  ]
+}
