@@ -1,4 +1,4 @@
-# Components and Props
+ # Components and Props
 Defining a component
 ```javascript
 function Welcome(props) {

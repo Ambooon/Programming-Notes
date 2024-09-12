@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fd02ee2fa48b20bf",
+        "id": "e976be7032d4c63b",
         "type": "tabs",
         "children": [
           {
-            "id": "82a18869de71cd39",
+            "id": "7678b1cd324f0091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/OOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ab4760571f26bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/Enums.md",
+                "file": "Vue/Vue Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vue/Vue Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vue/Vue Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Exception Handling.md"
+                "file": "Vue/Vue Structure.md"
               }
             }
           }
@@ -157,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f71a23ac40a2de",
+  "active": "7678b1cd324f0091",
   "lastOpenFiles": [
+    "Vue/Create Vue Project.md",
+    "Vue/Vue Structure.md",
+    "Javascript/Fetch.md",
+    "Vue",
+    "Typescript",
+    "Javascript/Async Await.md",
+    "Javascript/Images",
+    "Javascript/Images/Pasted image 20240905213246.png",
+    "Javascript/Promise.md",
+    "Javascript/Higher Order Functions.md",
+    "Javascript/Closures.md",
+    "Javascript/Arrow Function.md",
+    "Javascript/This Keyword.md",
+    "Javascript/Factory Function vs Construction Function.md",
+    "Javascript/Construction Function.md",
+    "Javascript/Factory Function.md",
+    "Javascript/Prototypal Inheritance.md",
     "C#/Enums.md",
-    "C#/Exception Handling.md",
+    "Javascript",
     "C#/OOP.md",
-    "ASP.NET/Create ASP.NET Project.md",
+    "PostgreSQL/Pasted image 20240719154218.png",
+    "PostgreSQL/Database Normalization.md",
+    "SQLite3/Relationship.md",
+    "SQLite3/Basics.md",
+    "React/Examples.md",
+    "React/Installation.md",
+    "React/Basics.md",
+    "HTML/Semantic Tags.md",
+    "CSS/Flex.md",
+    "CSS/Grid.md",
+    "CSS/Selectors.md",
+    "CSS/Unit and Sizes.md",
+    "CSS",
+    "HTML",
     "C#",
-    "ASP.NET/What to learn.md",
     "ASP.NET/Images/Pasted image 20240729133710.png",
-    "ASP.NET/Asynchronous.md",
     "ASP.NET/Images",
     "ASP.NET/Images/Pasted image 20240729132914.png",
-    "ASP.NET/Configurations.md",
-    "ASP.NET/Updated CRUD.md",
-    "ASP.NET/Saving entities in the Database.md",
-    "ASP.NET/Generating the database.md",
-    "ASP.NET/ORM or EntityFrameworkCore.md",
-    "ASP.NET/Data Validation.md",
-    "ASP.NET/DTO (Data Transfer Object).md",
-    "ASP.NET/CRUD.md",
-    "VSCode/Shortcuts.md",
-    "PostgreSQL/Pasted image 20240719154218.png",
     "ASP.NET",
-    "PostgreSQL/Database Normalization.md",
     "PostgreSQL/Pasted image 20240719155325.png",
     "PostgreSQL/Pasted image 20240719155258.png",
     "PostgreSQL/Pasted image 20240719155015.png",
     "PostgreSQL/Pasted image 20240719154954.png",
     "PostgreSQL/Pasted image 20240719154639.png",
     "PostgreSQL/Pasted image 20240719154618.png",
-    "PostgreSQL/Pasted image 20240719154248.png",
-    "FastAPI/FastAPI.md",
     "FastAPI",
-    "PostgreSQL/PSQL commands.md",
-    "PostgreSQL/SQL Commands.md",
-    "PostgreSQL/Start pgadmin4.md",
-    "C++/Strings.md",
-    "PostgreSQL",
-    "C++/Scope, Duration, Linkage.md",
-    "C++/Reference and Pointers.md",
-    "C++/Pointers.md",
-    "C++/Operations on Data.md",
-    "C++/Loops.md",
-    "VSCode",
-    "C++/Pics",
-    "C++",
-    "React Notes",
-    "THESIS",
     "Untitled.canvas"
   ]
 }
